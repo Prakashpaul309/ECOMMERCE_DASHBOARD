@@ -44,5 +44,5 @@ This dashboard is ideal for ecommerce managers, business analysts, and decision-
 Screenshots / Demos :
 
 ## Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Show what the dashboard looks like. - ![Alt text]([https://github.com/username/repo/assets/image.png](https://github.com/Prakashpaul309/ECOMMERCE_DASHBOARD/blob/main/ECOMMERCE_SALES_DASHBOARD.pbix))
 Example: ![Dashboard Preview](https://github.com/Prakashpaul309/ECOMMERCE_DASHBOARD/blob/main/SALES_DASHBOARD.png)
